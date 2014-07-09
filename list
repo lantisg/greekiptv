@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1, Mega
+http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
+#EXTINF:-1, Ant1
+http://wow.ant1.gr:1935/live/smil:mavani.smil/playlist.m3u8
+#EXTINF:-1, Alpha
+http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
+#EXTINF:-1, Star
+http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
+#EXTINF:-1,DAS ERSTE
+rtmp://94.20.21.34:1935/live/ard.stream
+#EXTINF:-1,ZDF
+rtmp://94.20.21.34:1935/live/zdf.stream
+#EXTINF:-1,SAT1
+rtmp://94.20.21.34:1935/live/sat1.stream
+#EXTINF:-1,RTL
+rtmp://94.20.21.34:1935/live/rtl.stream
+#EXTINF:-1,RTL2
+rtmp://94.20.21.34:1935/live/rtl2.stream
+#EXTINF:-1,PRO7
+rtmp://94.20.21.34:1935/live/pro7.stream
+#EXTINF:-1,KABEL1
+rtmp://94.20.21.34:1935/live/kabel1.stream
+#EXTINF:-1,VOX
+rtmp://94.20.21.34:1935/live/vox.stream
+#EXTINF:-1,SIXX
+rtmp://94.20.21.34:1935/live/sixx.stream
+#EXTINF:-1,SUPER RTL
+rtmp://94.20.21.34:1935/live/superrtl.stream
+#EXTINF:-1,RTL NITRO
+rtmp://94.20.21.34:1935/live/rtlnitro.stream
+#EXTINF:-1,3SAT
+rtmp://94.20.21.34:1935/live/3sat.stream
+#EXTINF:-1,ZDF NEO
+rtmp://94.20.21.34:1935/live/zdfneo.stream
+#EXTINF:-1,EUROSPORT
+rtmp://94.20.21.34:1935/live/eurosport.stream
+#EXTINF:-1,SPORT1
+rtmp://94.20.21.34:1935/live/sport1.stream
+#EXTINF:-1,NICK
+rtmp://94.20.21.34:1935/live/nickcc.stream
+#EXTINF:-1,DISNEY CHANNEL
+rtmp://94.20.21.34:1935/live/disneychannel
+#EXTINF:-1,N-TV
+rtmp://94.20.21.34:1935/live/ntv.stream
+#EXTINF:-1,N24
+rtmp://94.20.21.34:1935/live/n24.stream
+#‎EXTINF‬:-1,XX HD
+http://spi-live.ercdn.net/spi/eroxhd_0_1/playlist.m3u8
+#EXTINF:-1,XX HD
+http://spi-live.ercdn.net/spi/eroxxhd_0_1/playlist.m3u
+# EXTINF: 0,
+http://95.190.111.107:1234/udp/233.7.70.112:5000
+# EXTINF: 0,
+http://95.190.111.107:1234/udp/233.7.70.115:5000
+# EXTINF: 0, xxx
+http://95.190.111.107:1234/udp/233.7.70.117:5000
+# EXTINF: -1,
+http://95.190.111.107:1234/udp/233.7.70.121:5000
+# EXTINF: -1, of
+http://95.190.111.107:1234/udp/233.7.70.122:5000
+# EXTINF: -1, of
+http://212.164.128.183:1234/udp/233.7.70.236:5000
+# EXTINF: -1, Russian
+http://212.164.128.183:1234/udp/233.7.70.112:5000
+#EXTINF:-1,
+rtmp://$OPT:rtmp-raw=rtmp://111.118.21.77/ptv3//phd499 live=1 
